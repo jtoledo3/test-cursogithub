@@ -1,2 +1,3 @@
-sillas
-mesasg
+sillas 
+mesas
+sofas
